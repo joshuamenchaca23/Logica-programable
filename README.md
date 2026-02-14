@@ -34,5 +34,5 @@ Each folder may include:
 - Compiled simulation outputs
 - Quartus project files
 
-Example structure:
+
 
