@@ -1,7 +1,7 @@
 # Logica-programablee
 Decodificación de Número Primo con 4 Variables en FPGA
 ## Descripción
----
+
 
 En esta práctica se diseñó un sistema en Verilog que permite identificar si un número binario de 4 bits es un número primo.
 
