@@ -30,8 +30,6 @@ Each folder may include:
 
 - Verilog source files (.v)
 - Testbenches
-- Simulation waveform files (.vcd)
-- Compiled simulation outputs
 - Quartus project files
 
 ## Hardware Setup
