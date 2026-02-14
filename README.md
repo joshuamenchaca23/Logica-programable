@@ -21,17 +21,17 @@ Determine si el número es primo.
 
 Encienda un LED cuando el número sea primo.
 
-Materiales Utilizados
+## Materiales Utilizados
 
-Tarjeta FPGA DE10-Lite
+-Tarjeta FPGA DE10-Lite
 
-Cable USB Blaster
+-Cable USB Blaster
 
-Intel Quartus Prime Lite
+-Intel Quartus Prime Lite
 
-Código en Verilog
+-Código en Verilog
 
-Funcionamiento
+## Funcionamiento
 
 Los 4 switches representan un número binario de 4 bits.
 
@@ -59,7 +59,7 @@ Los números primos dentro de este rango son:
 
 Los demás valores no son números primos.
 
-Entradas y Salidas
+## Entradas y Salidas
 
 Entradas:
 
@@ -69,7 +69,7 @@ Salida:
 
 LED → Indicador de número primo
 
-Resultado
+## Resultado
 
 Al probar distintas combinaciones en los switches:
 
