@@ -9,7 +9,7 @@ El número se ingresa mediante 4 switches de la FPGA y el resultado se muestra e
 
 La implementación se realizó utilizando la tarjeta DE10-Lite y el software Intel Quartus Prime Lite.
 
-Objetivo
+## Objetivo
 
 Desarrollar un circuito digital que:
 
