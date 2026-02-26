@@ -180,6 +180,4 @@ endmodule
 
 
 
-//Para los registros voy a usar los displays, eso se hará al momento de instanciar mi BCD module 
-//puede ser tipo disp1, disp2,  
 
