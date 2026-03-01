@@ -1,4 +1,4 @@
-# 🔐 Practice 4 Password  – DE10-Standard (Cyclone V)
+#  Practice 4 Password  – DE10-Standard (Cyclone V)
 
 ##  Overview
 
