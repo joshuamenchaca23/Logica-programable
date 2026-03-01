@@ -60,9 +60,9 @@ The system is composed of three main modules:
 
 ---
 
-## 🧩 Module Description
+##  Module Description
 
-### 1️)BCD_module
+### 1️) BCD_module
 
 This module converts a 4-bit binary input into the corresponding 7-segment display encoding.
 
