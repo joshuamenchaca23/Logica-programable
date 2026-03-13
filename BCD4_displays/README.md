@@ -1,4 +1,4 @@
-# Ptactice 4- 4 Displays --> 10-bit Binary to 4-Digit 7-Segment Display
+# Practice 2- 4 Displays --> 10-bit Binary to 4-Digit 7-Segment Display
 
 ##  Overview
 
